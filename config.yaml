@@ -14,8 +14,8 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-# disqusShortname: ozcanisik-github-io
-# googleAnalytics: G-MEASUREMENT_ID
+disqusShortname: ozcanisik-github-io
+googleAnalytics: G-MEASUREMENT_ID
 
 markup:
   goldmark:
