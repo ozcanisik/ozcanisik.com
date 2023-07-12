@@ -1,5 +1,4 @@
 [build]
-publish = "public"
 command = 'echo -e "\ngoogleAnalytics: $GOOGLE_ANALYTICS \ndisqusShortname: $DISQUS_SHORTNAME \n" >> config.yaml && hugo --gc --minify --themesDir ../..'
 
 [context.production.environment]
