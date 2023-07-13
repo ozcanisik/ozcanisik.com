@@ -138,7 +138,9 @@ params:
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/ozcanisik/
         - icon: fab fa-instagram
-          url: https://www.instagram.com/ozcan.isikk/ 
+          url: https://www.instagram.com/ozcan.isikk/
+        - icon: fa fa-envelope
+          url: mailto:contact@ozcanisik.com  
       # customIcons:
       #   - icon: /images/github.svg
       #     url: "https://example.com"
