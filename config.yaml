@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Özcan."
     subtitle: "Computer Engineering Student"
-    content: "I'm a 4th Computer Engineering student passionate about cybersecurity."
+    content: "I'm a 4th year Computer Engineering student passionate about cybersecurity."
     image: /images/ozcan/me.jpg
     bottomImage:
       enable: true
