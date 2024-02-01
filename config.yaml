@@ -175,6 +175,7 @@ params:
         - "Mobile Programming With Flutter"
         - "Visual Programming (Winforms, ADO.NET, Entity Framework, DevExpress)"
         - "Cloud Computing"
+        - "Machine Learning"
 
 
   # Experience
@@ -184,7 +185,7 @@ params:
     items:
       - job: "System Management"
         company: "Uludağ University Computer Engineering Department"
-        # companyUrl: "https://example.com"
+        companyUrl: "https://uludag.edu.tr/bm"
         # date: "Jan 2022 - present"
         featuredLink:
           enable: false
