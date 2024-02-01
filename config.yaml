@@ -321,25 +321,7 @@ params:
           - icon: fa fa-envelope
             url: mailto:?subject=About%20Product%20Management%20Application%20Project&body
           - icon: fab fa-github
-            url: https://github.com/ozcanisik/Product-Inventory-Tracking-and-Management-Application
-        
-        - title: Wireless IDS
-        content: This application allows inventory management of the technology market (or any market), sales tracking, invoice creation, stock tracking, department management, employee management, various statistics in different areas, and many other features.
-        image: /images/projects/product-management.png
-        featured:
-          name: Video
-          link: https://youtu.be/BND59d3hA1c
-        badges:
-          - "C#"
-          - "Devexpress"
-          - "Entity Framework"
-          - ".NET"
-          - "MS-SQL"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=About%20Product%20Management%20Application%20Project&body
-          - icon: fab fa-github
-            url: https://github.com/ozcanisik/Product-Inventory-Tracking-and-Management-Application    
+            url: https://github.com/ozcanisik/Product-Inventory-Tracking-and-Management-Application  
 
   #Contact
   contact:
