@@ -325,7 +325,7 @@ params:
       
       - title: AI - Powered Wi-Fi Intrusion Detection System
         content: An application that detects 'Evil Twin' and 'Deauthentication' attacks over Wi-Fi.
-        image: /images/projects/product-management.png
+        image: /images/projects/wlan-ids.png
         badges:
           - "Python"
           - "Scapy"
