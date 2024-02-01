@@ -164,10 +164,8 @@ params:
         - "Cyber Security"
         - "Penetration Testing"
         - "Computer Networks"
-        - "Network Security"
         - "Git - Github"
         - "Python"
-        - "Machine Learning"
         - "C#"
         - "Java"
         - "Operating Systems"
@@ -175,7 +173,6 @@ params:
         - "Relational databases and SQL"
         - "Mobile Programming With Flutter"
         - "Visual Programming (Winforms, ADO.NET, Entity Framework, DevExpress)"
-        - "Cloud Computing"
 
 
   # Experience
@@ -183,15 +180,15 @@ params:
     enable: false
     # title: "Custom Name"
     items:
-      - job: "System Management"
-        company: "Uludağ University Computer Engineering Department"
+      - job: "Senior Software Developer"
+        company: "Facebook"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
-          enable: false
+          enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I took part in tasks such as virtualization, system installation and server management."
+        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
       - job: "Software Developer"
         company: "Amazon"
@@ -294,26 +291,14 @@ params:
     enable: true
     title: "Certificates and Achievements"
     items:
-      - title: Ethical Hacking and Cyber Security
-        content: Udemy
-      - title: CCNA: Introduction to Networks
-        content: Cisco
-      # - title: Introduction to Cyber Security
-      #   content: Cisco   
-      # - title: Introduction to Machine Learning
-      #   content: Global AI Hub 
-      # - title: HCCDA - Tech Essentials
-      #   content: Huawei
-      # - title: Version Controls- Git and Github
-      #   content: BTK Academy  
-      # - title: Mobile Application Development with Flutter
-      #   content: Google Digital Garage
-      #   # url: https://example.com
-      # - title: SQL
-      #   content: BTK Academy
-      
-         
-        
+      - title: Mobile Application Development with Flutter
+        content: Google Digital Garage
+        # url: https://example.com
+      - title: SQL
+        content: BTK Academy
+      - title: Version Controls- Git and Github
+        content: BTK Academy
+        # url: https://example.com
 
   # projects
   projects:
