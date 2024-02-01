@@ -164,6 +164,7 @@ params:
         - "Cyber Security"
         - "Penetration Testing"
         - "Computer Networks"
+        - "Network Security"
         - "Git - Github"
         - "Python"
         - "C#"
@@ -173,11 +174,12 @@ params:
         - "Relational databases and SQL"
         - "Mobile Programming With Flutter"
         - "Visual Programming (Winforms, ADO.NET, Entity Framework, DevExpress)"
+        - "Cloud Computing"
 
 
   # Experience
   experience:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
