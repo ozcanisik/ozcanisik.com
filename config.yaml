@@ -296,7 +296,7 @@ params:
     items:
       - title: Introduction to Cyber Security
         content: Cisco
-      - title: CCNA: Introduction to Networks
+      - title: CCNA - Introduction to Networks
         content: Cisco 
       - title: Ethical Hacking and Cyber Security
         content: Udemy  
