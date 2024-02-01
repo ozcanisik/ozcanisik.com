@@ -300,9 +300,6 @@ params:
         content: Cisco 
       - title: Ethical Hacking and Cyber Security
         content: Udemy  
-      - title: Mobile Application Development with Flutter
-        content: Google Digital Garage
-        # url: https://example.com
       - title: SQL
         content: BTK Academy
       - title: Version Controls- Git and Github
