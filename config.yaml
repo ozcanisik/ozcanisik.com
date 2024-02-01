@@ -294,6 +294,8 @@ params:
     enable: true
     title: "Certificates and Achievements"
     items:
+      - title: Introduction to Cyber Security
+        content: Cisco
       - title: Mobile Application Development with Flutter
         content: Google Digital Garage
         # url: https://example.com
