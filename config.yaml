@@ -300,11 +300,15 @@ params:
         content: Cisco 
       - title: Ethical Hacking and Cyber Security
         content: Udemy  
-      - title: SQL
-        content: BTK Academy
       - title: Version Controls- Git and Github
         content: BTK Academy
         # url: https://example.com
+      - title: Introduction to Machine Learning
+        content: Global AI Hub  
+      - title: SQL
+        content: BTK Academy
+      - title: HCCDA - Tech Essentials
+        content: Huawei Cloud  
 
   # projects
   projects:
