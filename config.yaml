@@ -308,7 +308,9 @@ params:
       - title: SQL
         content: BTK Academy
       - title: HCCDA - Tech Essentials
-        content: Huawei Cloud  
+        content: Huawei Cloud
+      - title: Garanti BBVA Security Academy
+        content: Garanti BBVA Technology  
 
   # projects
   projects:
