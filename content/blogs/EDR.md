@@ -48,7 +48,7 @@ Sektörde popüler EDR çözümleri arasında **CrowdStrike Falcon**, **VMware C
 
 ## Endpoint Detection and Response Nasıl Çalışır?
 
-![edr-steps](/images/Screenshots/EDR/edr-steps.png "EDR Steps")
+![edr-steps](/images/blogs/EDR/edr-steps.png "EDR Steps")
 
 EDR sistemleri, izlenen her uç cihazda çalışan ajanlara sahiptir. Bu ajanlar, cihazdaki faaliyetleri sürekli olarak izler ve bu verileri merkezi bir sunucuya veya bulut tabanlı bir platforma gönderir. Ajanlar, sistem kaynaklarından çeşitli bilgileri (örneğin, işlemci kullanımı, ağ trafiği, dosya sistemi değişiklikleri, kayıt defteri etkinlikleri, hafızadaki veriler) toplar. 
 
