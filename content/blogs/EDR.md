@@ -1,5 +1,5 @@
 ---
-title: "Endpoint Detection and Response Nedir ve Nasıl Çalışır?'"
+title: "Endpoint Detection and Response Nedir ve Nasıl Çalışır?"
 date: 2024-07-02T14:00:33+05:30
 draft: false
 author: "Özcan Işık"
